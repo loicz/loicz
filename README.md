@@ -1,4 +1,13 @@
-## Hi there 👋
+## 🏆 Sobr'IA — DINUM × 42 Hackathon · 2026
+
+Part of the award-winning team behind **Sobr'IA**, an adaptive
+LLM routing project for **Conversations (La Suite numérique)**.
+
+Our goal: use A/B testing and user feedback to improve response
+quality while reducing inference costs.
+
+🔗 [Hackathon submission](https://github.com/suitenumerique/hackathon42/issues/5)
+· [Team repository](https://github.com/maujogue/conversations)
 
 <!--
 **loicz/loicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
