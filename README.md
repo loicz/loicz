@@ -6,8 +6,7 @@ government’s open-source digital workspace. It combines complexity-based
 routing with blind A/B comparisons to balance **answer quality, speed,
 and resource efficiency**.
 
-**My contribution:** Collaborated with the team on the project concept
-and engineering design, and contributed to testing and bug fixes.
+**My contribution**: Co-designed the project concept and system architecture, collaborated with the team on key technical decisions around the LLM routing strategy and overall solution design, and supported implementation through testing, validation, and bug fixes
 
 🔗 [Hackathon submission](https://github.com/suitenumerique/hackathon42/issues/5)
 · [Code](https://github.com/maujogue/conversations/tree/feat/llm-router-v1)
